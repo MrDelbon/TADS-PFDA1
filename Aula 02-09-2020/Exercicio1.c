@@ -10,6 +10,10 @@ float	base = 0;
 float	altura = 0;
 float	area = 0;
 
+void novaFuncao() {
+	printf ("teste");
+}
+
 /* Corpo do Programa */
 int main()
 {
